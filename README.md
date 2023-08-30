@@ -46,8 +46,3 @@ Ensure you have the following software installed:
 - [Web Browser](https://www.google.com/chrome/)
 
 ### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/mahinhasan/calculator.git
