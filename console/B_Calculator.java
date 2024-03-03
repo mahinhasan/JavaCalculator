@@ -1,3 +1,4 @@
+
 class B_Calculator implements BasicCalculatorInterface{
 
 	public double summation (double x, double y){
